@@ -7,7 +7,7 @@
   </p> 
   <br/>
  
-  <h3>Here is your task </h3>
+  <h3> <i> Here is your task </i></h3>
   <p>
   
   <b>Your job is to crack as many passwords as possible with available tools (e.g. use Hashcat). Here are your Task instructions: </b> <br>
@@ -23,9 +23,20 @@ What type of hashing algorithm was used to protect passwords? <br>
 What level of protection does the mechanism offer for passwords?  <br>
 What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?  <br>
 What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?   <br>
-What would you change in the password policy to make breaking the passwords harder?    
+What would you change in the password policy to make breaking the passwords harder?  
+
  <br>
+ Report and answer here : https://github.com/wasimakrom/GoldmanSachs-Crack-Leaked-Password-Database/blob/main/Report%20of%20Crack%20leaked%20password%20database.pdf
   </p>
+  
+  
+  <h3> Resources to help you with the task : - </h3>
+  <a href ="https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/">Password cracking explained (techniques described in 2013 still haven’t changed) </a>
+  
+  <a href = "https://en.wikipedia.org/wiki/Salt_(cryptography)"> Password salting </a> <br>
+  <a href ="https://en.wikipedia.org/wiki/Cryptographic_hash_function"> Hash Function </a> <br>
+  <a href="https://en.wikipedia.org/wiki/Password_cracking#Software"> Password Cracking Tools </a> <br>
+  <a href="https://howsecureismypassword.net/"> Password Strong Checker </a> <br>
   
   
   
