@@ -38,6 +38,37 @@ What would you change in the password policy to make breaking the passwords hard
   <a href="https://en.wikipedia.org/wiki/Password_cracking#Software"> Password Cracking Tools </a> <br>
   <a href="https://howsecureismypassword.net/"> Password Strong Checker </a> <br>
   
+  <h2> Report : </h2>
   
+Dear Sir/Ma’am, 
+I found several defenselessness after trying to crack all the leaked hashes, in your 
+password policy and this email concludes all the findings and suggestions to 
+improve your password policy. Secure Hash Algorithm (SHA) and Message Digest 
+(MD5) are the standard cryptographic hash functions to provide data security for 
+authentication. All the password which are compromised were using MD5 which is 
+a weaker hash algorithm and is prone to collisions. It was very easy to crack with 
+Hashcat.com and rockyou.txt wordlist via terminal and web browsers.
+Here I have also another website to find password: https://crackstation.net/,
+https://hashes.com/en/decrypt/hash,
+After cracking the passwords, we find the following things about organization’s 
+password policy:
+ Avoid common words and character combinations in your password.
+ There is no specific requirement for the password creation. Users can use 
+any combination of word and letters to create a password. You can include 
+several new things in your password policy. My recommendations are: 
+ Longer passwords are better, 8 characters is a starting point. 
+ Minimum length for password is set to 6. 
+ Don’t reuse your passwords.
+ Include special character, Capital and Small letters, numbers in your 
+password. 
+ Don’t let users include their username, actual name, date of birth and other 
+personal information while creating a password.
+ Train your users to follow these policies to keep their passwords safe.
+Thanking You,
+Name: SK WASIM AKROM HOSSAIN
+B Tech Electrical Engineering
+
+  
+  </p>
   
   
