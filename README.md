@@ -19,11 +19,11 @@ Your answer should be provided in the form of a draft email/memo explaining your
 
 You must determine the following:
 
-# What type of hashing algorithm was used to protect passwords? <br>
+##  What type of hashing algorithm was used to protect passwords? <br>
 What level of protection does the mechanism offer for passwords?  <br>
 What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?  <br>
 What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?   <br>
-What would you change in the password policy to make breaking the passwords harder?   #
+What would you change in the password policy to make breaking the passwords harder?   
 
  <br>
  Report and answer here : https://github.com/wasimakrom/GoldmanSachs-Crack-Leaked-Password-Database/blob/main/Report%20of%20Crack%20leaked%20password%20database.pdf
