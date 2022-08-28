@@ -18,8 +18,7 @@ Draft an email/memo briefly explaining your findings in relation to controls use
 Your answer should be provided in the form of a draft email/memo explaining your findings and conclusions of controls currently used by an organization to prevent successful cracking of passwords and potential uplifts that you would propose to existing controls with justifications.
 
 You must determine the following:
-
-##  What type of hashing algorithm was used to protect passwords? <br>
+ > What type of hashing algorithm was used to protect passwords? <br>
 What level of protection does the mechanism offer for passwords?  <br>
 What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?  <br>
 What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?   <br>
@@ -28,9 +27,10 @@ What would you change in the password policy to make breaking the passwords hard
  <br>
  Report and answer here : https://github.com/wasimakrom/GoldmanSachs-Crack-Leaked-Password-Database/blob/main/Report%20of%20Crack%20leaked%20password%20database.pdf
   </p>
+  <br>
+  <br>
   
-  
-  <h3> Resources to help you with the task : - </h3>
+  ` Resources to help you with the task : - ` <br>
   <a href ="https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/">Password cracking explained (techniques described in 2013 still haven’t changed) </a>
   
   <a href = "https://en.wikipedia.org/wiki/Salt_(cryptography)"> Password salting </a> <br>
