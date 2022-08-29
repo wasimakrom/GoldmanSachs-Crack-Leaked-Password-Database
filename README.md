@@ -32,7 +32,7 @@ What would you change in the password policy to make breaking the passwords hard
   
  # Letter and report : 
  ```
- Dear Sir/Ma’am, 
+          Dear Sir/Ma’am, 
  
                 I found several defenselessness after trying to crack all the leaked hashes, 
                 in your password policy and this email concludes all the findings and suggestions to 
@@ -63,7 +63,7 @@ What would you change in the password policy to make breaking the passwords hard
                    Train your users to follow these policies to keep their passwords safe.
 
 
-          Thanking You,
+            Thanking You,
           
           Name: SK WASIM AKROM HOSSAIN
           B Tech Electrical Engineering
