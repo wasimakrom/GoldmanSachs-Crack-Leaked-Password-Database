@@ -70,7 +70,8 @@ What would you change in the password policy to make breaking the passwords hard
 
  ```
   
-  ` Resources to help you with the task : - ` <br>
+  ` Resources to help you with the task : - ` 
+  <br>
   <a href ="https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/">Password cracking explained (techniques            described in 2013 still haven’t changed) </a> 
   <a href = "https://en.wikipedia.org/wiki/Salt_(cryptography)"> Password salting </a> <br>
   <a href ="https://en.wikipedia.org/wiki/Cryptographic_hash_function"> Hash Function </a> <br>
