@@ -27,10 +27,13 @@ What would you change in the password policy to make breaking the passwords hard
  <br>
  Report and answer here : https://github.com/wasimakrom/GoldmanSachs-Crack-Leaked-Password-Database/blob/main/Report%20of%20Crack%20leaked%20password%20database.pdf
   </p>
-  <br>
-  <br>
+
   
- # Letter and report : 
+  # Project Report and Observations : 
+<p> Completing this task assigned by Goldman Sachs, MD5 and SHA were the two algorithms that I came across. Analysing the passwords and their respective security algorithms used, I narrowed down my observations into this report.
+  </p>
+  
+ ## Letter and report : 
  ```
           Dear Sir/Ma’am, 
  
